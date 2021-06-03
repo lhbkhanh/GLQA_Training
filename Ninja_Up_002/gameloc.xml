@@ -1,0 +1,175 @@
+﻿<loc>
+
+
+	<language lang="en">
+		<txt_share>Share your score now: </txt_share>
+		<txt_youjump>You jumped</txt_youjump>
+		<caption_1>I just scored </caption_1>
+		<caption_2> m in Ninja Up! </caption_2>
+		<description>It's good to go higher! Play Ninja Up now!</description>
+		<txt_tutorial>Draw a line to start. </txt_tutorial>
+		<txt_crane>before suffering a crane-related concussion. </txt_crane>
+		<txt_ground>before the ground wanted to say hello. </txt_ground>
+		<txt_ninja>before running into some ninja trouble. </txt_ninja>
+		<txt_ufo>before going on vacation to another planet. </txt_ufo>
+	</language>
+	
+	<language lang="vi">
+		<txt_share>Chia sẻ điểm số ngay:</txt_share>
+		<txt_youjump>Bạn đã nhảy được</txt_youjump>
+		<caption_1>Tôi vừa nhảy được </caption_1>
+		<caption_2> m trong Ninja Up! </caption_2>
+		<description>Bay cao thật đã! Chơi Ninja Up ngay!</description>
+		<txt_tutorial>Hãy vẽ một đường để bắt đầu. </txt_tutorial>
+		<txt_crane>trước khi bị cần trục làm bất tỉnh. </txt_crane>
+		<txt_ground>trước khi mặt đất muốn nói lời chào. </txt_ground>
+		<txt_ninja>trước khi lâm vào vài rắc rối ninja. </txt_ninja>
+		<txt_ufo>trước khi đi nghỉ ở hành tinh khác. </txt_ufo>
+	</language>
+	
+	<language lang="fr">
+		<txt_share>Partage ton score maintenant :</txt_share>
+		<txt_youjump>Tu as sauté</txt_youjump>
+		<caption_1>Je viens d'atteindre </caption_1>
+		<caption_2> m dans Ninja Up !</caption_2>
+		<description>C'est bon d'aller toujours plus haut ! Joue à Ninja Up !</description>
+		<txt_tutorial>Dessine une ligne pour commencer.</txt_tutorial>
+		<txt_crane>avant de souffrir d'une commotion cérébrale.</txt_crane>
+		<txt_ground>avant que le sol veuille te dire bonjour.</txt_ground>
+		<txt_ninja>avant de te heurter à un problème de ninja.</txt_ninja>
+		<txt_ufo>avant de partir en vacances sur une autre planète.</txt_ufo>
+	</language>
+	
+	<language lang="de">
+		<txt_share>Teile dein Ergebnis jetzt:</txt_share>
+		<txt_youjump>Du bist</txt_youjump>
+		<caption_1>Ich habe gerade in Ninja Up </caption_1>
+		<caption_2> Meter erreicht!</caption_2>
+		<description>Es ist gut, Höheres zu erreichen! Spiele jetzt Ninja Up!</description>
+		<txt_tutorial> </txt_tutorial>
+		<txt_crane>gesprungen, bevor dir ein Kran eine Gehirnerschütterung verpasst hat.</txt_crane>
+		<txt_ground>gesprungen, bevor du auf den Boden der Tatsachen zurückgekehrt bist.</txt_ground>
+		<txt_ninja>gesprungen, bevor du Ninja-Ärger bekommen hast.</txt_ninja>
+		<txt_ufo>gesprungen, bevor du auf einem anderen Planeten Urlaub gemacht hast.</txt_ufo>
+	</language>
+	
+	<language lang="es">
+		<txt_share>Comparte tu puntuación:</txt_share>
+		<txt_youjump>Has saltado</txt_youjump>
+		<caption_1>¡He alcanzado </caption_1>
+		<caption_2> m en Ninja Up!</caption_2>
+		<description>¡Aún más alto! ¡Juega ahora a Ninja Up!</description>
+		<txt_tutorial>Traza una línea para empezar.</txt_tutorial>
+		<txt_crane>antes de sufrir una conmoción cerebral.</txt_crane>
+		<txt_ground>antes de que a la tierra le diese tiempo de decir hola.</txt_ground>
+		<txt_ninja>antes de meterte en problemas ninja.</txt_ninja>
+		<txt_ufo>antes de irte de vacaciones a otro planeta.</txt_ufo>
+	</language>
+	
+	<language lang="it">
+		<txt_share>Condividi subito il tuo punteggio:</txt_share>
+		<txt_youjump>Hai saltato</txt_youjump>
+		<caption_1>Ho raggiunto un punteggio di </caption_1>
+		<caption_2> m a Ninja Up!</caption_2>
+		<description>Sempre più in alto! Gioca a Ninja Up!</description>
+		<txt_tutorial>Traccia una linea per iniziare.</txt_tutorial>
+		<txt_crane>prima di fare un piccolo incidente con una gru.</txt_crane>
+		<txt_ground>prima di abbracciare il pavimento.</txt_ground>
+		<txt_ninja>prima di incappare in un ninja-guaio.</txt_ninja>
+		<txt_ufo>prima di andare in vacanza su un altro pianeta.</txt_ufo>
+	</language>
+	
+	<language lang="br">
+		<txt_share>Compartilhe sua pontuação agora:</txt_share>
+		<txt_youjump>Você pulou</txt_youjump>
+		<caption_1>Acabei de fazer </caption_1>
+		<caption_2> m em Ninja Up!</caption_2>
+		<description>É sempre bom subir mais! Jogue Ninja Up agora!</description>
+		<txt_tutorial>Desenhe uma linha para começar.</txt_tutorial>
+		<txt_crane>antes de sofrer um traumatismo craniano.</txt_crane>
+		<txt_ground>antes de dar de cara no chão.</txt_ground>
+		<txt_ninja>antes de dar de cara com o perigo ninja.</txt_ninja>
+		<txt_ufo>antes de sair de férias para outro planeta.</txt_ufo>
+	</language>
+	
+	<language lang="tr">
+		<txt_share>Şimdi skorunu paylaş:</txt_share>
+		<txt_youjump>Şu kadar zıpladın:</txt_youjump>
+		<caption_1>NINJA UP'TA </caption_1>
+		<caption_2> METRELİK SKORA ULAŞTIM!</caption_2>
+		<description>Yükseklere çıkmak güzeldir! Şimdi Ninja Up oyna!</description>
+		<txt_tutorial>Başlamak için bir ip çiz.</txt_tutorial>
+		<txt_crane>ve sonunda vinç sarsıntısı yaşadın.</txt_crane>
+		<txt_ground>ve sonunda zeminle tanıştın.</txt_ground>
+		<txt_ninja>ve sonunda ninja sorunu yaşadın.</txt_ninja>
+		<txt_ufo>ve sonunda başka bir gezegende tatile çıkmak zorunda kaldın.</txt_ufo>
+	</language>
+	
+	<language lang="ru">
+		<txt_share>Опубликуйте счет:</txt_share>
+		<txt_youjump>Вы подпрыгнули на</txt_youjump>
+		<caption_1>Я подпрыгнул на </caption_1>
+		<caption_2> м в Прыг-скок Ниндзя!</caption_2>
+		<description>Чем выше, тем лучше! Сыграйте в Прыг-скок Ниндзя!</description>
+		<txt_tutorial>Нарисуйте линию, чтобы начать.</txt_tutorial>
+		<txt_crane>и напоролись на подъемный кран.</txt_crane>
+		<txt_ground>и уткнулись носом в землю.</txt_ground>
+		<txt_ninja>и столкнулись с типичными для ниндзя проблемами.</txt_ninja>
+		<txt_ufo>и отправились на другую планету.</txt_ufo>
+	</language>
+	
+	<language lang="id">
+		<txt_share>Bagikan skormu sekarang:</txt_share>
+		<txt_youjump>Kamu telah melompat</txt_youjump>
+		<caption_1>Aku telah meraih skor </caption_1>
+		<caption_2> m di Ninja Up!</caption_2>
+		<description>Melompatlah lebih tinggi! Mainkan Ninja Up sekarang!</description>
+		<txt_tutorial>Buat garis untuk memulai.</txt_tutorial>
+		<txt_crane>sebelum mengalami benturan dengan alat berat.</txt_crane>
+		<txt_ground>sebelum mendarat di tanah.</txt_ground>
+		<txt_ninja>sebelum terjebak dalam permasalahan ninja.</txt_ninja>
+		<txt_ufo>sebelum berlibur ke planet lain.</txt_ufo>
+	</language>
+	
+	<language lang="th">
+		<txt_share>แชร์คะแนนของคุณเลย:</txt_share>
+		<txt_youjump>คุณกระโดดได้</txt_youjump>
+		<caption_1>ฉันเพิ่งกระโดดได้  </caption_1>
+		<caption_2> ม. ใน Ninja Up!</caption_2>
+		<description>ยิ่งสูงยิ่งดี! เล่น Ninja Up เลย!</description>
+		<txt_tutorial>ลากเส้นเพื่อเริ่ม</txt_tutorial>
+		<txt_crane>ก่อนจะปะทะเข้ากับเครนก่อสร้าง</txt_crane>
+		<txt_ground>ก่อนที่พื้นดินจะทักทายคุณ</txt_ground>
+		<txt_ninja>ก่อนที่จะวิ่งชนเข้ากับปัญหานินจาบางอย่าง</txt_ninja>
+		<txt_ufo>ก่อนจะไปพักร้อนที่ดาวเคราะห์ดวงอื่น</txt_ufo>
+	</language>
+	
+	<language lang="tw">
+		<txt_share>立即分享分數：</txt_share>
+		<txt_youjump>你跳了</txt_youjump>
+		<caption_1>我剛剛在《Ninja Up》獲得了</caption_1>
+		<caption_2>分！</caption_2>
+		<description>跳越高越好！立即暢玩《Ninja Up》吧！</description>
+		<txt_tutorial>畫一條線以開始遊戲</txt_tutorial>
+		<txt_crane>然後撞到起重機造成腦震盪</txt_crane>
+		<txt_ground>然後與地面親密接觸</txt_ground>
+		<txt_ninja>然後捲入了忍者之戰</txt_ninja>
+		<txt_ufo>然後去外太空度假了</txt_ufo>
+	</language>
+	
+	<language lang="cn">
+		<txt_share>立即分享您的分数:</txt_share>
+		<txt_youjump>你跳了</txt_youjump>
+		<caption_1>我在Ninja Up中获得了</caption_1>
+		<caption_2>米的成绩！</caption_2>
+		<description>人总要往高处走的！现在就来玩Ninja Up吧！</description>
+		<txt_tutorial>画出一条线开始游戏。</txt_tutorial>
+		<txt_crane>然后遭遇了塔吊的撞击</txt_crane>
+		<txt_ground>然后与地面亲密接触</txt_ground>
+		<txt_ninja>然后卷入了忍者的麻烦事</txt_ninja>
+		<txt_ufo>然后去别的星球度假了</txt_ufo>
+	</language>
+	
+	<!--update 03/06/2016-->
+	
+</loc>
